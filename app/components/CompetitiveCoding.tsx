@@ -204,7 +204,7 @@ export default function CompetitiveCoding() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
               { label: 'Total Problems Solved', value: '112+', icon: '💪' },
-              { label: 'Platforms Active', value: '5', icon: '🏆' },
+              { label: 'Platforms Active', value: '4', icon: '🏆' },
               { label: 'Contests Participated', value: '36+', icon: '🎯' },
               { label: 'Best Rating', value: '1340', icon: '⭐' },
             ].map((stat, index) => (
