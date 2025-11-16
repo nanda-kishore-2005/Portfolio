@@ -56,16 +56,7 @@ const platforms: CodingPlatform[] = [
     rank: 'Active Developer',
     color: 'from-gray-500/20 to-gray-600/20',
   },
-  {
-    name: 'LinkedIn',
-    icon: '/assets/logos/linkedin.png',
-    profileUrl: 'https://www.linkedin.com/in/nanda-kishore-manne-52b910278',
-    username: 'nanda-kishore-manne',
-    problemsSolved: '340+',
-    solvedLabel: 'Followers',
-    rank: 'Professional',
-    color: 'from-blue-600/20 to-blue-700/20',
-  },
+  
 ];
 
 export default function CompetitiveCoding() {
